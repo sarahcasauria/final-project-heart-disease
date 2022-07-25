@@ -1,0 +1,54 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: rgb(245, 104, 104)!important;
+  }
+
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.heading {
+  padding-top: 3%;
+  text-align:center;
+}
+
+.centered-container {
+  text-align:center;
+}
+
+.background-txt {
+  padding-top: 20px;
+  padding-left: 10px!important;
+}
+
+img {
+  max-height: 400px;
+}
+
+.navbar {
+  background-color: rgb(160, 160, 254)!important;
+}
+
+.navbar-brand {
+  padding-left: 10px!important;
+}
+
+/* removing row margins from bootstrap */
+.row {
+  margin-left:0!important;
+  margin-right:0!important;
+}
+
+.form {
+  padding-left: 20px;
+  padding-top: 20px;
+  background-color:antiquewhite;
+}
+
+.padded {
+  padding-top:20px;
+  background-color:antiquewhite;
+  padding-bottom: 20px;
+}
